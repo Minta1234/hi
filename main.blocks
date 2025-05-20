@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="FseQ3{F$lYy,s{7l/N7?" x="0" y="0"></block><block type="device_print_message" id=":kmkqYf;0.-?65fb]DpT" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="-163" y="34"><value name="text"><shadow type="text" id="hIn9Z3`AH?)C`h:IF^Z`" disabled-reasons="MANUALLY_DISABLED"><field name="TEXT">Kuy minta</field></shadow></value></block><block type="device_show_leds" id="))~tVpykFj4+?u1F=wi=" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="60" y="326"><field name="LEDS">`
+        # # # # . 
+        # # . . . 
+        # # . . . 
+        # . . . . 
+        # . . # .
+        `</field><next><block type="device_show_leds" id="dPe{$Nm):/8(%HVRQ2!U" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="+4iANfhs)(-w+E-r-o!J" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="{8),#?vh99:*]FB$FEFR" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></xml>
